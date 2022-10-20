@@ -1,0 +1,16 @@
+.container{
+  max-width: 1080px;
+  margin: 20px auto;
+}
+.headdingH3{
+  text-align: center;
+  color: rgb(113, 143, 143);
+}
+.headdingH5{
+  text-align: center;
+  color: rgb(73, 160, 131);
+}
+.headdingEnd{
+  text-align: right;
+  color: rgb(160, 148, 148);
+}
